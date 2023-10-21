@@ -1,0 +1,16 @@
+embedded link of the IBM
+
+
+1. Dashboard
+
+<iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.public_folders%2FProject%2FDashboard_water&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model0000018b452f8bbd_00000000" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+2. Story
+
+<iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.public_folders%2FProject%2FStory%2Bof%2BWater%2Bpotability&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model0000018b4795eed0_00000000&amp;sceneTime=3350" width="320" height="200" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+
+3. Video link
+
+
+https://drive.google.com/file/d/13f3xtAicmREW9jYTF6ewTxED4t4ws_MW/view?usp=share_link
